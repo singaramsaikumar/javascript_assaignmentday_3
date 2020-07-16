@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<script  >
+		var name=window.prompt("Enter your fullname");
+        console.log(fullname);
+
+	</script>
+
+</body>
+</html>
